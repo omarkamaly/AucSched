@@ -4,7 +4,6 @@ The application will have reminders for courses that you have taken and will hav
 Application Featuers:
 -	Automated Reminders
 -	Printing the Schedule
--	Alerts (if a course you need is available)
 -	Syllabus for courses taken
--	Errors for already taken courses
+-	Helps in planning ahead
 -	Schedule daily, monthly, weekly and yearly tasks. 
