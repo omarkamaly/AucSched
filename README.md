@@ -9,7 +9,7 @@ Application Featuers:
 -	Schedule daily, monthly, weekly and yearly tasks. 
 - Advising 
 
-# Group Members
+# Group Members:
 - Ali Moussa
 - Marwan Awad
 - Nourhan Mokbel
