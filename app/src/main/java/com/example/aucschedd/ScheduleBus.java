@@ -17,6 +17,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class ScheduleBus extends AppCompatActivity {
+    //for toast
     public static String msg="";
     public String temp="";
     @Override
