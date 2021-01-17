@@ -7,3 +7,10 @@ Application Featuers:
 -	Syllabus for courses taken
 -	Helps in planning ahead
 -	Schedule daily, monthly, weekly and yearly tasks. 
+- Advising 
+
+# Group Members
+- Ali Moussa
+- Marwan Awad
+- Nourhan Mokbel
+- Omar Kamaly
